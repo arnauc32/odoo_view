@@ -7,8 +7,7 @@
     'description': """
         Create products from Autodesk Vault Items
         """,
-    'author': "Onduex sl",
-    'website': "https://www.onduex.com",
+    'author': "Arnau Carbonell",
     'category': 'Inventory',
     'version': '16.0.0.0.0',
     'depends': [
